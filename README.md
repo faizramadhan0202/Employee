@@ -5,5 +5,4 @@
 
 Tools   : Jupyter Notebook <br>
 Library : Pandas, Seaborn, Numpy, Matplotlib <br>
-Dataset : [Dataset Link](https://github.com/faizramadhan0202/Employee)
 
